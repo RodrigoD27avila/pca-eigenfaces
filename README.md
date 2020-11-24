@@ -1,6 +1,6 @@
 # PCA Eigenfaces
 
-Este projeto utiliza a linguagem de programação C++-17 em conjunto com a biblioteca OpenCV para realizar a classificação de face utilizando a técnica de PCA.
+Este projeto utiliza a linguagem de programação C++-17 em conjunto com a biblioteca OpenCV para realizar a classificação de faces utilizando a técnica de PCA.
 
 ## Acurácia obtida
 

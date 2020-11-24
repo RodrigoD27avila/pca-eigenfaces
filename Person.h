@@ -5,7 +5,8 @@
 
 using namespace cv;
 
-struct Person {
+struct Person
+{
     int id;
     int label;
     Mat data;
