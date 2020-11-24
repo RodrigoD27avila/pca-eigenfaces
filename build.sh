@@ -1,0 +1,1 @@
+g++ -Wall -std=c++17 PCAEigenFace.cpp PCA.cpp -o PCA `pkg-config --cflags --libs opencv4` -O3
